@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="api_key">7be0974082ea4c3f908fd0235961e9fb</string>
+    <string name="activity_categories_name">Категории</string>
+    <string name="add_lay_name">Добавьте категорию</string>
+    <string name="accept_delete_name">Категория будет удалена</string>
+    <string name="cancel">Отменить</string>
+    <string name="accept">Подтвердить</string>
+    <string name="update">Измените категорию</string>
+</resources>
